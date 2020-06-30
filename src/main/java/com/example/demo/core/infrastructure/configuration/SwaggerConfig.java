@@ -35,8 +35,8 @@ public class SwaggerConfig {
      */
     private ApiInfo apiInfo() {
         return new ApiInfoBuilder()
-                .title("데모 프로젝트 스웨거")
-                .description("데모 스웨거")
+                .title("데모 프로젝트")
+                .description("데모")
                 .license("demo")
                 .version("1.0")
                 .build();
