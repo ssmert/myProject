@@ -27,9 +27,11 @@ rebel.xml
 .gradle
 .gradle/
 build/
+/.gradle/
 
 ### Gradle Patch ###
 **/build/
+/build/
 
 # Cache of project
 .gradletasknamecache
